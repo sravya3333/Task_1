@@ -1,0 +1,21 @@
+customer_id,age,gender,income,city,purchase_amount,product_category,satisfaction_score,signup_date
+1,30,Male,50000,New York,1200,Electronics,4.5,2024-01-15
+2,22,Female,45000,Chicago,800,Clothing,3.9,2023-09-10
+3,41,Male,85000,New York,2100,Home,4.1,2023-11-20
+4,,Female,60000,Los Angeles,950,Electronics,4.7,2022-07-18
+5,35,Other,70000,Chicago,1750,Books,3.8,2024-02-25
+6,29,Male,52000,,1300,Clothing,4.2,2023-03-12
+7,45,Female,99000,Miami,2200,Electronics,4.8,2024-05-01
+8,33,Male,66000,New York,1100,Books,4.0,2022-10-11
+9,52,Female,115000,Los Angeles,4300,Home,4.6,2021-12-05
+10,28,Male,47000,Chicago,700,Clothing,3.6,2023-06-03
+11,28,Male,47000,Chicago,700,Clothing,3.6,2023-06-03
+12,60,,120000,Miami,-500,Electronics,2.9,2024-04-19
+13,38,Female,76000,New York,1800,Home,4.3,2024-01-08
+14,24,Unknown,35000,Seattle,650,Books,3.7,2023-08-22
+15,50,Male,102000,Seattle,2600,Electronics,4.4,2024-03-03
+16,31,Female,58000,Miami,900,Clothing,4.1,2023-07-15
+17,27,Other,42000,Los Angeles,600,Books,3.5,2022-11-29
+18,46,Female,94000,Chicago,2450,Home,4.9,2023-10-12
+19,39,Male,82000,New York,2100,Electronics,4.2,2024-06-05
+20,33,Female,69000,Seattle,1600,Clothing,4.0,2023-05-04
